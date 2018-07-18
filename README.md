@@ -12,3 +12,8 @@ Its a docker image that allows you to build containers inside of a container wit
 5. Check your repo and see that the image was pushed up to dockerhub
 
 This was all done using a container. This can be easily replicated in jenkins server
+
+
+### Articles
+https://medium.com/@sebgoa/building-docker-images-with-kaniko-6e2421b018
+https://github.com/GoogleContainerTools/kaniko
